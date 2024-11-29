@@ -1,14 +1,18 @@
 <h1 align="left">welcome</h1>
 
-###
-
 <p align="left">My name is Mohammad, but you can call me Moe.</p>
 
-###
+<h2 align="left">about me</h2>
+
+<p align="left">
+  I taught myself to code at 12 and have been passionate about software engineering ever since.
+</p>
+<p align="left">
+  I thrive in dynamic environments where I can tackle meaningful challenges and continue learning. 
+  Finishing my Computer Science degree in May 2025, I’m eager to contribute my skills, grow as an engineer, and make a real impact.
+</p>
 
 <h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
