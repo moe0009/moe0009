@@ -1,15 +1,10 @@
-<h1 align="left">welcome</h1>
+<h1 align="left">Hello there!</h1>
 
 <p align="left">My name is Mohammad, but you can call me Moe.</p>
 
-<h2 align="left">about me</h2>
-
 
 <p align="left">
-  I thrive in dynamic environments where I can tackle meaningful challenges and continue learning. 
-  Finishing my Computer Science degree in May 2025, I’m eager to contribute my skills, grow as an engineer, and make a real impact.
 
-  I also love hiking.
 </p>
 
 <h2 align="left">I code with</h2>
